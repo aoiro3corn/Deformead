@@ -1,0 +1,5 @@
+[bgpath ADV/Textures/bg/bg_ex_sample 0 0 255]@
+[path 580 -305 120 280 0 Explore/Scripts/pr_ex_01]@
+[path 290 -230 160 100 0 Explore/Scripts/pr_ex_02]@
+[path 700 -330 200 100 0 Explore/Scripts/pr_ex_03]@
+[end 3 ADV/Scripts/script_001 {go explore}]

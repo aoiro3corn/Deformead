@@ -1,0 +1,6 @@
+[bgpath Explore/Textures/room_yuka_flooring_old -110 291 255]@
+[path Explore/Textures/sleep_bed 23 -229 255 ADV/Scripts/sample_explore_script_01]@
+[path Explore/Textures/gakkou_isu_chair 929 -69 255 ADV/Scripts/sample_explore_script_02]@
+[path Explore/Textures/chuuka_turntable 484 -300 255 ADV/Scripts/sample_explore_script_03]@
+[path Explore/Textures/book_booktrack 401.5 100 255 ADV/Scripts/sample_explore_script_04]@
+[end 3 ADV/Scripts/script_001 {go explore}]
